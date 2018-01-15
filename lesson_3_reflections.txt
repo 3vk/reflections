@@ -32,4 +32,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    In case you don't want to mess your master branch (either original work or forked (cloned) from other user).
+    If working directly with master branch it is easier to merging files, but it is messier.
+    If working with separate branch, it is complicated to merging all changes into master branch, but you can keep master branch "cleaner".
+
